@@ -5,7 +5,7 @@ ToDoIt is meant as a motivational goal tracking app where users can track their 
 
 ## Team Information
 
-This app started as a portfolio project made by team members attending Coding Dojo.
+This app started as a portfolio project made by:
 
 <table>
 <colgroup>
@@ -42,6 +42,11 @@ href="mailto:tbone101@gmail.com">tbone101@gmail.com</a></p></td>
 </tr>
 </tbody>
 </table>
+
+
+
+
+
 
 ## Back-End Routes
 *Note: all routes require credentials to be passed with the request.*
