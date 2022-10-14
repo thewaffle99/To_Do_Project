@@ -42,8 +42,7 @@ href="mailto:tbone101@gmail.com">tbone101@gmail.com</a></p></td>
 </tr>
 </tbody>
 </table>
-
-#Demos
+## Demos
 
 ![alt text](https://github.com/thewaffle99/To_Do_Project/blob/prod/gifs/ezgif-2-9d77ab6dee.gif)
 
