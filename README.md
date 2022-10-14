@@ -43,10 +43,13 @@ href="mailto:tbone101@gmail.com">tbone101@gmail.com</a></p></td>
 </tbody>
 </table>
 
+#Demos
 
+![alt text](https://github.com/thewaffle99/To_Do_Project/blob/prod/gifs/ezgif-2-9d77ab6dee.gif)
 
+![alt text](https://github.com/thewaffle99/To_Do_Project/blob/prod/gifs/ezgif-2-b83898c97e.gif)
 
-
+![alt text](https://github.com/thewaffle99/To_Do_Project/blob/prod/gifs/ezgif-2-d34247a8f3.gif)
 
 ## Back-End Routes
 *Note: all routes require credentials to be passed with the request.*
